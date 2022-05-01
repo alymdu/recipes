@@ -1,8 +1,6 @@
 # recipes
 
-Food Recipes
-
-I love cooking
+Cooking Essentials & Food Recipes
 
 Essentials:
 
