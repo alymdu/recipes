@@ -23,4 +23,4 @@ Recipes:
 
 - Shrimp Gochujang Pasta
 - Arabic Chicken and Rice
-# TODO: Add the readme files for the above recipes
+- TODO: Add the readme files for the above recipes
