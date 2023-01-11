@@ -20,5 +20,5 @@ Essentials:
 Recipes:
 
 - Shrimp Gochujang Pasta
-- Arabic Chicken and Rice
+- Good Chicken and Rice
 - TODO: Add the readme files for the above recipes
