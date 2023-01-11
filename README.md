@@ -7,7 +7,7 @@ Recipes:
 
 ### Good Chicken and Rice
 
-[!chicken](images/chicken.jpeg)
+![chicken](images/chicken.jpeg)
 
 Ingredients:
 For the rice:
