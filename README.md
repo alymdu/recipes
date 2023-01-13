@@ -3,4 +3,4 @@
 Recipes:
 
 - [Good Chicken and Rice](/recipes/chicken_and_rice.md)
-- [Shrimp Gochujang Pasta](#)
+- [Gochujang Pasta with Shrimp](/recipes/shrimp_pasta.md)
