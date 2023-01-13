@@ -22,7 +22,7 @@ image.png
 
 ### Directions
 
-**For the rice:**
+**For the pasta:**
 1. Boil water
 1. Cook pasta
 
